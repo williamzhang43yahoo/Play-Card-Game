@@ -58,7 +58,7 @@ const CARD_VALUE_MAP = {
     AS: 74,
 }
 
-let deck1, deck2, inRound, stop
+let deck1, deck2
 
 // Create a deck of 52 cards has thirteen ranks and four suits
 for (let i = 0; i < suits.length; i++) {
